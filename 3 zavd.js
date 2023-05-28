@@ -1,0 +1,10 @@
+let num1 = Number(prompt("Введіть перше число:"));
+let num2 = Number(prompt("Введіть друге число:"));
+let sum = num1 + num2;
+let division = num1 / num2;
+let multiplication = num1 * num2;
+let subtracting = num1 - num2;
+alert("Сума двох чисел: " + sum);
+alert("Ділення двох чисел: " + division);
+alert("Множення двох чисел: " + multiplication);
+alert("Різниця двох чисел: " + subtracting);
